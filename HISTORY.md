@@ -1,8 +1,17 @@
+- 0.2.1 - 2014-04-10
+  - BUGFIX: added scroll_id to scroll_search response (enetzer)
+
+- 0.2.0 - 2014-04-10
+  - FEATURE: aliasing scroll_search and scan_search to scrollSearch and scanSearch
+
+- 0.1.0 - 2014-04-09
+  - FEATURE: Adding scroll_search, scan_search methods (thanks enetzer).
+
 - 0.0.16 - 2014-04-09
-  - Test setup fix for core methods in client.unit.js.
+  - BUGFIX: Test setup fix for core methods in client.unit.js.
 
 - 0.0.15 - 2013-10-04
-  - Adding coveralls test coverage tool.
+  - FEATURE: Adding coveralls test coverage tool.
 
 - 0.0.14 - 2013-10-03
   - FEATURE: Adding cURL-formatted request logging option.
